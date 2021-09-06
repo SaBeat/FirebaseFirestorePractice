@@ -2,7 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.firebasepractice">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:allowClearUserData="true"
@@ -12,14 +13,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FirebasePractice">
         <activity
+            android:name=".AnotherVerificationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".VarificationActivity"
+            android:exported="true" />
+        <activity
             android:name=".ProfileActivity"
             android:exported="true" />
         <activity
             android:name=".RegisterActivity"
-            android:exported="true" />
-<!--        <activity-->
-<!--            android:name=".MainActivity"-->
-<!--            android:exported="true" />-->
+            android:exported="true" /> <!-- <activity -->
+        <!-- android:name=".MainActivity" -->
+        <!-- android:exported="true" /> -->
         <activity
             android:name=".LoginActivity"
             android:exported="true">

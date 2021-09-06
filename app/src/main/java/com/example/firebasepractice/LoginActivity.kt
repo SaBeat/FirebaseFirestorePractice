@@ -24,6 +24,10 @@ class LoginActivity : AppCompatActivity() {
         }
 
         login()
+        text_forgot_password.setOnClickListener {
+            startActivity(Intent(this@LoginActivity,VarificationActivity::class.java))
+            finish()
+        }
     }
 
     private fun login() {

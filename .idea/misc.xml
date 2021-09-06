@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Projects-Android/Android-Kotlin/FirebasePractice/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Projects-Android/Android-Kotlin/FirebasePractice/app/src/main/res/layout/activity_another_verification.xml" value="0.18645833333333334" />
+        <entry key="..\:/Projects-Android/Android-Kotlin/FirebasePractice/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/Projects-Android/Android-Kotlin/FirebasePractice/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Projects-Android/Android-Kotlin/FirebasePractice/app/src/main/res/layout/activity_profile.xml" value="0.25" />
         <entry key="..\:/Projects-Android/Android-Kotlin/FirebasePractice/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Projects-Android/Android-Kotlin/FirebasePractice/app/src/main/res/layout/activity_varification.xml" value="0.25" />
       </map>
     </option>
   </component>
